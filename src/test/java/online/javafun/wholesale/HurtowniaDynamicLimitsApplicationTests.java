@@ -1,4 +1,4 @@
-package online.javafun.customdynamiclimits;
+package online.javafun.wholesale;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
